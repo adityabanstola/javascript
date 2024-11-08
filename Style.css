@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display:flex;
+    margin: 0;
+}
+nav li{
+    background-color: grey;
+    list-style: none;
+    margin: 0;
+    padding: 0 25px;
+}
+table {
+    display: flex;
+    border: solid;
+}
+.red{
+ background-color:red;
+}
+.yellow{
+    background-color:yellow;
+}
+.bulb{
+    background-color:yellow;
+}
+.bulbcontainer{
+    height: 340px;
+    width: 340px;
+   
+}
